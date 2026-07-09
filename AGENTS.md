@@ -1,12 +1,11 @@
-# Seamra Works Profile Repo Instructions
+# Seamra Works Profile Repo Notes
 
-This repository owns the GitHub organization profile.
+This repository owns the public GitHub organization profile.
 
-- Parent-first inspection: when this repo is checked out inside the Seamra Works
-  workspace, read `../AGENTS.md`, `../repos.yml`, and relevant `../docs/`
-  governance files before editing this repo. If the parent governance repo is
-  unavailable, use this file as the local fallback.
-- Keep the public organization voice publisher-scoped: Seamra Works publishes developer tools; AtlasArc is the first product.
-- Use AtlasArc, AtlasArc.io, and Seamra Works exactly as defined in the main product repo's `docs/BRAND_STRUCTURE.md`.
-- When describing AtlasArc as a whole product, mention Java, Kotlin, and TypeScript support.
-- Avoid broad consulting/company language such as enterprise services, cloud solutions, or AI consulting.
+- When this checkout sits inside a larger Seamra Works workspace, review the
+  workspace-level notes before editing.
+- In a standalone clone, this file and `profile/README.md` are enough.
+- Keep changes focused on public organization profile copy and repository
+  metadata.
+- Follow the current public product names and links already present in the
+  profile copy.

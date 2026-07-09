@@ -1,2 +1,1 @@
-# .github
-About Seamra Works
+Seamra Works publishes focused developer tools for understanding the shape of software systems. Our first product is AtlasArc, an IntelliJ IDEA plugin for exploring Java and Kotlin architecture through connected views of dependencies, metrics, heatmaps, subsystem boundaries, and cycle health. For product details, documentation, and downloads, visit AtlasArc.io.
